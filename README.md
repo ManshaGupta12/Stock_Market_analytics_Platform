@@ -57,18 +57,3 @@
 
 Pull requests are welcome! If you find a bug or have an idea for an enhancement, feel free to open an issue.  
 
----
-
-## 🧩 License  
-
-This project is open-source under the **MIT License**.  
-
----
-
-### 🖼️ Optional Preview Section  
-
-You can add screenshots here to make the README visually appealing on GitHub:
-
-```markdown
-![Grafana Dashboard Preview](path_to_image/grafana_dashboard.png)
-![Gradio UI Preview](path_to_image/gradio_ui.png)
